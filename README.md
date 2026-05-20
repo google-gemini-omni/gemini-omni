@@ -8,7 +8,7 @@
 [![Powered by Gemini Omni](https://img.shields.io/badge/Powered%20by-Gemini%20Omni-4285F4?style=flat-square)](https://gemini.google.com)
 [![Native 4K](https://img.shields.io/badge/Native-4K-FFD700?style=flat-square)](https://github.com/google-gemini-omni/gemini-omni/releases/latest)
 [![Free Launch Tier](https://img.shields.io/badge/Free-Launch%20Tier-22c55e?style=flat-square)](https://github.com/google-gemini-omni/gemini-omni/releases/latest)
-[![MIT License](https://img.shields.io/github/license/google-gemini-omni/gemini-omni?style=flat-square)](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
 <div align="center">
   <a href="../../releases/latest">
